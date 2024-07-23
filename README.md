@@ -25,16 +25,28 @@ O objetivo deste projeto é criar um modelo preditivo para prever o fechamento d
 1. Clone o repositório:
    ```sh
    git clone https://github.com/usuario/previsao_ibovespa.git
+2. Navegue até o diretório do projeto:
+   ```sh
+   cd seu-repositorio
+3. Instale as dependências:
+   ```sh
+   pip install -r requirements.txt
+4. Execute o script principal:
+   ```sh
+   python seu-script.py
 
-2.Instale as dependências:
-  ```sh
-  pip install -r requirements.txt
+## Avaliação do Modelo
+O modelo foi avaliado utilizando as métricas RMSE (Root Mean Squared Error) e MAE (Mean Absolute Error), além de uma medida de acurácia. Os resultados obtidos foram:
 
-2.Instale as dependências:
-  ```sh
-  pip install -r requirements.txt
+- RMSE: 15.6218107000084
+- MAE: 12.304413929815267
+- Acurácia: 0.8881246458113503
 
-2.Instale as dependências:
-  ```sh
-  pip install -r requirements.txt
+## Contribuição
+Se você deseja contribuir com o projeto, por favor, siga os passos abaixo:
 
+1. Faça um fork do repositório
+2. Crie uma branch para sua feature (git checkout -b feature/nova-feature)
+3. Commit suas alterações (git commit -am 'Adicionei uma nova feature')
+4. Faça o push para a branch (git push origin feature/nova-feature)
+5. Abra um Pull Request
