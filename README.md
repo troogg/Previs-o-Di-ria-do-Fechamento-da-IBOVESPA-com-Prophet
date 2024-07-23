@@ -50,3 +50,5 @@ Se você deseja contribuir com o projeto, por favor, siga os passos abaixo:
 3. Commit suas alterações (git commit -am 'Adicionei uma nova feature')
 4. Faça o push para a branch (git push origin feature/nova-feature)
 5. Abra um Pull Request
+
+<p align='center'>Desenvolvido 🧩 por, Willian</p>
