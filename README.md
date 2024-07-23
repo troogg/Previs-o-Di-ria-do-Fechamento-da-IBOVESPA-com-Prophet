@@ -14,7 +14,7 @@ O objetivo deste projeto é criar um modelo preditivo para prever o fechamento d
 
 ## Tecnologias Utilizadas
 - Python
-- Prophet
+- [Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
 - pandas
 - numpy
 - scikit-learn
